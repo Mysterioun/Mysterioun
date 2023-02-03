@@ -35,3 +35,7 @@
 
   
 </div>
+  
+![Snake animation](https://github.com/Mysterioun/Mysterioun/blob/output/github-contribution-grid-snake.svg)
+  
+
