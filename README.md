@@ -1,16 +1,35 @@
-### Hi there 👋
+### Salvee!! Eu sou o Christian Alves 👀☕
 
-<!--
-**Mysterioun/Mysterioun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Buscando primeiro emprego na area
+- 🌱 Cursando Sistemas para Internet (UFSM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mysterioun&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterioun&layout=compact&theme=dracula" />
+  </a>
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Chris-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Chris-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Chris-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Chris-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Chris-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Chris-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="right" alt="Cafe-gif" height="150" style="border-radius:75px;" src="https://25.media.tumblr.com/dfcb0509dc73b88f817775212f11e4fe/tumblr_msu15rrsM61r922azo1_500.gif">
+</div>
+
+##
+ 
+<div> 
+  <a href="https://instagram.com/mysterioun_oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ 	<a href="https://www.facebook.com/mysterioun.oficial" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://t.me/Mysterioun" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href = "mailto:christianfalves60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
