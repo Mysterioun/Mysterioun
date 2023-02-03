@@ -1,7 +1,7 @@
 ### Salvee!! Eu sou o Christian Alves 👀☕
 
 
-- 🔭 Buscando primeiro emprego na area
+- 🔭 Buscando primeiro emprego na área
 - 🌱 Cursando Sistemas para Internet (UFSM)
 
 <div>
