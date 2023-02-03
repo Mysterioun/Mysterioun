@@ -1,8 +1,8 @@
 ### Salvee!! Eu sou o Christian Alves 👀☕
 
 
-- 🔭 Buscando primeiro emprego na área
-- 🌱 Cursando Sistemas para Internet (UFSM)
+- 🔭 Buscando <b>primeiro<b> emprego na área
+- 🌱 Cursando <b>Sistemas para Internet<b> (<i>UFSM<i>)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
