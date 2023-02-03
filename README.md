@@ -34,4 +34,4 @@
   <a href = "mailto:christianfalves60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![snake gif](https://github.com/Mysterioun/Mysterioun/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Mysterioun/Mysterioun/blob/output/github-contribution-grid-snake.svg)
