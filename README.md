@@ -1,4 +1,4 @@
-### Salvee!! Eu sou o Christian Alves 👀☕
+### Salvee!! Bem-vindo ao meu GitHub 👀☕
 
 
 - 🔭 Buscando <b>primeiro<b> emprego na área
@@ -35,6 +35,8 @@
 
   
 </div>
+
+##
   
 ![Snake animation](https://github.com/Mysterioun/Mysterioun/blob/output/github-contribution-grid-snake.svg)
   
