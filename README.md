@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mysterioun&show_icons=true&theme=dracula" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mysterioun&show_icons=true&theme=midnight-purple" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterioun&layout=compact&theme=dracula" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mysterioun&layout=compact&theme=midnight-purple" />
   </a>
 </div>
 
