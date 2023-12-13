@@ -1,8 +1,6 @@
-### Salvee!! Bem-vindo ao meu GitHub 👀☕
+### Salvee!! Seja bem-vindo(a) 👀☕
 
-
-- 🔭 Buscando <b>primeiro<b> emprego na área
-- 🌱 Cursando <b>Sistemas para Internet<b> (<i>UFSM<i>)
+- 🌱 <b>Sistemas para Internet<b> (<i>UFSM<i>)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
